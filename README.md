@@ -8,7 +8,7 @@ Assessed vaccination coverage by examining the number of people partially and fu
 <img width="604" alt="Screen Shot 2023-06-14 at 2 55 35 AM" src="https://github.com/Trishul07/Global_Vaccination_Tracker/assets/136287793/e1d5bf1f-4049-480a-8ed6-5c68a468f7e8">
 
 
-Project can be viewed at:
-Public [Tableau](https://public.tableau.com/app/profile/trishul.sangu/viz/COVID-19VaccinationTracker_16781660312470/Dashboard2)
+Find the Project at:
+[Tableau Public](https://public.tableau.com/app/profile/trishul.sangu/viz/COVID-19VaccinationTracker_16781660312470/Dashboard2)
 
 
